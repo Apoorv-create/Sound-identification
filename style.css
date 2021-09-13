@@ -1,0 +1,29 @@
+body
+{
+    font-family: 'Special Elite', cursive;
+    background: white;
+}
+
+.header_div
+{
+    background: whitesmoke;
+    color: red;
+}
+
+.header_div p
+{
+    font-family: 'Roboto', cursive;
+    color: gray;
+    letter-spacing: 1.5px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.main_div button
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 2px;
+}
